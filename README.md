@@ -15,6 +15,6 @@ The notebook simulates the opening and closing movement of a hand prosthesis and
 
 ## Run it
 
-Open `Final_Project_Steuerung_und_Regelung.ipynb` in Jupyter or Google Colab. Requirements: `numpy`, `scipy`, `matplotlib`.
+Open `Final_Project Steuerung_und_Regelung.ipynb` in Jupyter or Google Colab. Requirements: `numpy`, `scipy`, `matplotlib`.
 
 Code comments and plot labels are in German.
